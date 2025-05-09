@@ -1,6 +1,7 @@
 Open the file in your workspace and run each code block sequentially. One file contains the code for part one. The other file conatins the code for part two.
 In order to run the code for part 2, it will be necessary to configure an AWS CLI and gain access to the credentials file on Canvas and move it to your aws folder.
 The starfield digital certificate will also be necessary, but this is included in the submitted code.
+The .csv files must also be downloaded from https://physionet.org/content/mimiciii-demo/1.4/.
 
 Question 1).
 The first table shows the total amount of each drug type prescribed by ethnicity. 
